@@ -8,16 +8,15 @@ Chrome Extension boilerplate with
 
 * [node + npm](https://nodejs.org/) (Current Version)
 
-## Option
-
-* [Visual Studio Code](https://code.visualstudio.com/)
-
 ## Includes the following
 
 * TypeScript
 * Webpack
 * React
 * Jest
+* eslint
+* prettier
+* husky / lint-staged
 * Example Code
     * Chrome Storage
     * Options Version 2
