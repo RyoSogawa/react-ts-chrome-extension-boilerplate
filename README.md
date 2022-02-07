@@ -26,28 +26,19 @@ Chrome Extension boilerplate with
     * background
 
 ## Setup
-
 ```
 yarn
 ```
 
 ## Build
-
 ```
 yarn build
 ```
 
 ## Build in watch mode
-
-### terminal
-
 ```
-yarn watch
+yarn dev
 ```
-
-### Visual Studio Code
-
-Run watch mode.
 
 ## Load extension to chrome
 
