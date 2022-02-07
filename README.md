@@ -1,6 +1,8 @@
-# Chrome Extension Sample
+# react-ts-chrome-extension-boilerplate
 
-Chrome Extension Sample
+Chrome Extension boilerplate with
+- React
+- TypeScript
 
 ## Prerequisites
 
@@ -26,17 +28,13 @@ Chrome Extension Sample
 ## Setup
 
 ```
-npm install
+yarn
 ```
-
-## Import as Visual Studio Code project
-
-...
 
 ## Build
 
 ```
-npm run build
+yarn build
 ```
 
 ## Build in watch mode
@@ -44,7 +42,7 @@ npm run build
 ### terminal
 
 ```
-npm run watch
+yarn watch
 ```
 
 ### Visual Studio Code
@@ -56,4 +54,6 @@ Run watch mode.
 Load `dist` directory
 
 ## Test
-`npx jest` or `npm run test`
+```
+yarn test
+```

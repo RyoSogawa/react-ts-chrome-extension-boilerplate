@@ -1,7 +1,7 @@
 {
-  "name": "chrome-extension-sample",
-  "version": "1.0.0",
-  "description": "chrome-extension-sample",
+  "name": "react-ts-chrome-extension-boilerplate",
+  "version": "0.1.0",
+  "description": "react-ts-chrome-extension-boilerplate",
   "main": "index.js",
   "scripts": {
     "watch": "webpack --config webpack/webpack.dev.js --watch",
@@ -10,11 +10,11 @@
     "test": "npx jest",
     "style": "prettier --write \"src/**/*.{ts,tsx}\""
   },
-  "author": "",
+  "author": "Ryo Sogawa",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tokku5552/chrome-extension-sample.git"
+    "url": "https://github.com/RyoSogawa/react-ts-chrome-extension-boilerplate.git"
   },
   "dependencies": {
     "react": "^17.0.1",
