@@ -4,12 +4,9 @@ Chrome Extension boilerplate with
 - React
 - TypeScript
 
-## Prerequisites
-
-* [node + npm](https://nodejs.org/) (Current Version)
+https://developer.chrome.com/docs/extensions/mv3/getstarted/
 
 ## Includes the following
-
 * TypeScript
 * Webpack
 * React
@@ -19,7 +16,7 @@ Chrome Extension boilerplate with
 * husky / lint-staged
 * Example Code
     * Chrome Storage
-    * Options Version 2
+    * Options Version 3
     * content script
     * count up badge number
     * background

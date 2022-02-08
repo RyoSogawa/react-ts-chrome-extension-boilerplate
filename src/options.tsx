@@ -22,7 +22,7 @@ const Options = () => {
   }, [])
 
   const saveOptions = () => {
-    // Saves options to chrome.storage.sync.
+    // Save options to chrome.storage.sync.
     chrome.storage.sync.set(
       {
         favoriteColor: color,
